@@ -1,3 +1,9 @@
+**Custom shortcuts:**
+1. `CTRL+W Close active editor`
+2. `CTRL+SHIFT+T Reopen closed tab`
+3. `CTRL+D Add selection for next occurrence`
+4. `CTRL+SHIFT+D Duplicate entire line`
+
 ```
 To import settings from a JAR archive 
 
