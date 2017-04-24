@@ -3,9 +3,11 @@
 2. `CTRL+SHIFT+T Reopen closed tab`
 3. `CTRL+D Add selection for next occurrence`
 4. `CTRL+SHIFT+D Duplicate entire line`
+5. `CTRL+TAB Next tab`
+6. `CTRL+SHIFT+TAB PREVIOUS tab`
 
 ```
-To import settings from a JAR archive 
+To import settings from a JAR archive
 
   1. On the main menu, choose File | Import Settings.
   2. In the Import File Location dialog box that opens select the desired archive.
